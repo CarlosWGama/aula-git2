@@ -1,0 +1,14 @@
+INICIALIZAR O REPOSITÓRIO
+
+git init
+
+
+ADICIONAR OS ARQUIVOS E COMITAR
+
+git add -A
+git commit -m "Mensagem"
+
+ADICIONAR REPOSITORIO REMOTO
+git remote add origin link-REPOSITÓRIO
+
+git push -u origin master
